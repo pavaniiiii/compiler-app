@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/compiler-app/static/css/main.7ee2a881.css",
+    "main.js": "/compiler-app/static/js/main.37eced05.js",
+    "static/js/787.4bcba08b.chunk.js": "/compiler-app/static/js/787.4bcba08b.chunk.js",
+    "static/media/logo.svg": "/compiler-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/compiler-app/index.html",
+    "main.7ee2a881.css.map": "/compiler-app/static/css/main.7ee2a881.css.map",
+    "main.37eced05.js.map": "/compiler-app/static/js/main.37eced05.js.map",
+    "787.4bcba08b.chunk.js.map": "/compiler-app/static/js/787.4bcba08b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee2a881.css",
+    "static/js/main.37eced05.js"
+  ]
+}
