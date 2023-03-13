@@ -4,11 +4,12 @@
 
 }
 body{
-    background-image: linear-gradient(45deg,rgb(18, 132, 246),#bf92d1 );
+    background-image: linear-gradient(45deg,rgb(102, 156, 209),#7b6185 );
 }
 
 .container{
-  padding: 10px;
+  padding-top: 10px;
+
 }
 h2{
   align-items: center;
@@ -21,11 +22,11 @@ h2{
  display: flex;
 
  border-radius: 2px;
-  height:85vh;
+  height:88vh;
   overflow: scroll;
 }
 .left-container{
- width: 100%;
+width: 100%;
  border-radius: 2px;
  background-color: white;
 }
@@ -59,4 +60,16 @@ h2{
  background-color: rgb(159, 149, 149);
  border-radius: .2rem;
 }
+.run{
+  margin-left: 90px;
+  margin-right: 10px;
+}
+.refresh{
+  border: none;
+  outline: none;
+  font-size: 20px;
+  width: 30px;
+  background-color: white;
+}
+
 
